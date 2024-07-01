@@ -1,4 +1,4 @@
-Résultat du APPLY :
+Résultat:
 
 
 Apply complete! Resources: 2 added, 0 changed, 1 destroyed.
